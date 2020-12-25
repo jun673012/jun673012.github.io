@@ -6,4 +6,4 @@ subtitle:
 
 ------
 
-"2020-12-25-java-study-1.md"
+[java-study](2020-12-25-java-study-1.md)
