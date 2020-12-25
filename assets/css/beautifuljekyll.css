@@ -2,7 +2,7 @@
 layout: null
 ---
 
-@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
+@import url(main.css);
 @import url("pygment_highlights.css");
 
 /* --- General --- */
