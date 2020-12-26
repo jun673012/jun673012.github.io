@@ -61,7 +61,15 @@ C에서 배열의 인덱스는 0부터 시작
 
 첫번째 배열요소의 주소가 기본주소가 되고 다른 요소들은 다음처럼 됨
 
-[제목 없음](https://www.notion.so/09a5ea75e2874e3f86d2951270199bf6)
+|--------|--------|
+|list[0]|기본주소=base|
+|list[1]|base + 1 * sizeof()int|
+|list[2]|base + 1 * sizeof()int|
+|list[3]|base + 1 * sizeof()int|
+|list[4]|base + 1 * sizeof()int|
+|list[5]|base + 1 * sizeof()int|
+
+
 
 프로그램에서 list[i]라고 적으면 컴파일러는 주소 base + 1 * sizeof()int에 있는 값을 가져옴
 
@@ -75,7 +83,10 @@ C언어에서 2차원 배열은 다음과 같이 선언
 
 int list[3][5];
 
-[제목 없음](https://www.notion.so/84457973d4b246f2a1d67fd2823f8f63)
+|--------|--------|--------|
+|0행|list[0][0]|list[0][1]|
+|1행|list[1][0]|list[1][1]|
+|2행|list[2][0]|list[2][1]|
 
 ### 2. 구조체
 
@@ -87,7 +98,8 @@ int list[3][5];
 
 C언어에서는 struct 키워드 이용하여 표기
 
-[제목 없음](https://www.notion.so/94b710e1a5704935b24d923f405faea8)
+|--------|--------|
+|■■|■○|
 
 구조체 형식 정의
 
