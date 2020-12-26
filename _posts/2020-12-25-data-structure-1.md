@@ -3,7 +3,7 @@ layout: post
 title: Data Structure
 subtitle: C언어로 쉽게 풀어쓴 자료구조
 share-img: /assets/img/path.jpg
-tags: [books, C, DataStructure]
+tags: [C, DataStructure]
 ---
 
 ### 1.   자료구조, 알고리즘
