@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Data Structure 3
 subtitle: C언어로 쉽게 풀어쓴 자료구조
