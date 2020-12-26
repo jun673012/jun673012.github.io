@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Structure
+title: Data Structure 2
 subtitle: C언어로 쉽게 풀어쓴 자료구조
 share-img: /assets/img/path.jpg
 tags: [C, DataStructure]
