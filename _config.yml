@@ -22,6 +22,7 @@ navbar-links:
   Category:
      - Java: "java" 
      - Data Structure: "datastructure"
+     - etc: "etc"
 
 # --- Logo --- #
 
