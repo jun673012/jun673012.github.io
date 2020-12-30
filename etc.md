@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Java
-subtitle: Java Study
+title: etc
+subtitle:
 ---
 
 ------
