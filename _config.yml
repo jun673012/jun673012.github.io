@@ -19,10 +19,7 @@ navbar-links:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
-  Category:
-     - Java: "java" 
-     - Data Structure: "datastructure"
-     - etc: "etc"
+  Category: "category"
 
 # --- Logo --- #
 
