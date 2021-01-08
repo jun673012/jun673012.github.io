@@ -27,7 +27,7 @@ Data Structure
 
 도서
 
-@@@
+[그래서 컴퓨터는 어떻게 작동하나요?](_posts/2021-01-08-but-how-do-it-know.md)
 
 ------
 
