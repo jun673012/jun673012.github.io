@@ -5,7 +5,7 @@ subtitle: 컴퓨터구조 개념 잡기
 tags: [Book]
 ---
 
-![but-how-do-it-know](assets/img/but-how-do-it-know.jpg)
+![but-how-do-it-know](./img/but-how-do-it-know.jpg)
 
 
 책 제목 그대로 컴퓨터가 어떻게 동작하는지 알려준다  
