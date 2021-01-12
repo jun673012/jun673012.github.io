@@ -27,15 +27,15 @@ Data Structure
 
 도서
 
-[그래서 컴퓨터는 어떻게 작동하나요?](_posts/2021-01-08-but-how-do-it-know.md)
+[그래서 컴퓨터는 어떻게 작동하나요?](_posts/2021-01-08-but-how-do-it-know.md)  
 
 ------
 
 C++  
 
 
-[C++ vector](_posts/2021-01-06-c++-vertor-1.md)
-[C++ ios::sync_with_stdio(false), cin.tie(NULL)](_posts/2021-01-12-ios::sync_with_stdio(false), cin.tie(NULL).md)
+[C++ vector](_posts/2021-01-06-c++-vertor-1.md)  
+[C++ 알고리즘 실행속도 높이기](_posts/2021-01-12-ios::sync_with_stdio(false), cin.tie(NULL).md) ios::sync_with_stdio(false), cin.tie(NULL)  
 
 ------
 
