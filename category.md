@@ -35,6 +35,7 @@ C++
 
 
 [C++ vector](_posts/2021-01-06-c++-vertor-1.md)
+[C++ ios::sync_with_stdio(false), cin.tie(NULL)](_posts/2021-01-12-ios::sync_with_stdio(false), cin.tie(NULL).md)
 
 ------
 
