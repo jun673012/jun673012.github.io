@@ -35,7 +35,7 @@ C++
 
 
 [C++ vector](_posts/2021-01-06-c++-vertor-1.md)  
-[C++ 알고리즘 실행속도 높이기](_posts/2021-01-12-ios::sync_with_stdio(false), cin.tie(NULL).md) ios::sync_with_stdio(false), cin.tie(NULL)  
+[C++ 알고리즘 실행속도 높이기](_posts/2021-01-12-c++-speed-up.md) ios::sync_with_stdio(false), cin.tie(NULL)  
 
 ------
 
